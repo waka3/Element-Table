@@ -1,0 +1,1 @@
+/*Thu May 05 2022 11:42:56 GMT+0800 (GMT+08:00)*/import EasyTable from '../src/components/EasyTable';export { EasyTable }; 
